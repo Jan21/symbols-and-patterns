@@ -19,5 +19,10 @@ Collection of resources for applications of ML to Theorem Proving
 ## Talks
 [Proof synthesis and differential linear logic](https://www.youtube.com/watch?v=IW4LjjAWrO4)
 
+[Interview with Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be)
+
 ## Graph Neural Networks Resources
 [ICML 2019 workshop](https://graphreason.github.io/schedule.html)
+
+## Discussions
+[Lean Theorem Prover on Zulip](https://leanprover-community.github.io/archive/113488general/41431AIandtheoremproving.html)
