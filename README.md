@@ -24,6 +24,8 @@ Collection of resources for applications of ML to Theorem Proving
 
 [Graph Neural Reasoning for 2-Quantified Boolean Formula Solvers](https://graphreason.github.io/papers/11.pdf)
 
+[Can Neural Networks Learn Symbolic Rewriting?](https://graphreason.github.io/papers/40.pdf)
+
 ## Talks
 [Proof synthesis and differential linear logic](https://www.youtube.com/watch?v=IW4LjjAWrO4)
 
