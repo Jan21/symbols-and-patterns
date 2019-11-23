@@ -26,10 +26,13 @@ Collection of resources for applications of ML to Theorem Proving
 
 [Can Neural Networks Learn Symbolic Rewriting?](https://graphreason.github.io/papers/40.pdf)
 
+[Reinforcement Learning of Theorem Proving](https://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving)
+
 ## Talks
 [Proof synthesis and differential linear logic](https://www.youtube.com/watch?v=IW4LjjAWrO4)
 
 [Interview with Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be)
+
 
 ## Graph Neural Networks Resources
 [ICML 2019 workshop](https://graphreason.github.io/schedule.html)
