@@ -28,6 +28,20 @@ Collection of resources for applications of ML to Theorem Proving
 
 [Reinforcement Learning of Theorem Proving](https://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving)
 
+[Premise Selection for Theorem Proving by Deep Graph Embedding](https://papers.nips.cc/paper/6871-premise-selection-for-theorem-proving-by-deep-graph-embedding.pdf)
+
+[GAMEPAD: A LEARNING ENVIRONMENT FOR THEOREM PROVING](https://openreview.net/pdf?id=r1xwKoR9Y7)
+
+[Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling](https://arxiv.org/pdf/1911.06904.pdf)
+
+## Repositories
+[Deepmath](https://github.com/tensorflow/deepmath)
+
+[FormulaNet](https://github.com/princeton-vl/FormulaNet)
+
+[CoqGym](https://github.com/princeton-vl/CoqGym)
+
+[GamePad](https://github.com/ml4tp/gamepad)
 ## Talks
 [Proof synthesis and differential linear logic](https://www.youtube.com/watch?v=IW4LjjAWrO4)
 
