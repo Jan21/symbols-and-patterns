@@ -30,9 +30,22 @@ Collection of resources for applications of ML to Theorem Proving
 
 [Premise Selection for Theorem Proving by Deep Graph Embedding](https://papers.nips.cc/paper/6871-premise-selection-for-theorem-proving-by-deep-graph-embedding.pdf)
 
+[Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling](https://arxiv.org/pdf/1911.06904.pdf)
+
+ [Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling
+](https://arxiv.org/abs/1911.06904)
+ 
+ [Premise selection with neural networks and distributed representation of features
+](https://arxiv.org/abs/1807.10268)
+ 
+ [Towards Finding Longer Proofs](https://arxiv.org/abs/1905.13100)
+ 
+ 
+## Datasets
+
 [GAMEPAD: A LEARNING ENVIRONMENT FOR THEOREM PROVING](https://openreview.net/pdf?id=r1xwKoR9Y7)
 
-[Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling](https://arxiv.org/pdf/1911.06904.pdf)
+[HOList: An Environment for Machine Learning of Higher Order Logic Theorem Proving](http://proceedings.mlr.press/v97/bansal19a.html)
 
 ## Repositories
 [Deepmath](https://github.com/tensorflow/deepmath)
