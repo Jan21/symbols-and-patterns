@@ -60,6 +60,8 @@ Collection of resources for applications of ML to Theorem Proving
 
 [Interview with Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ&feature=youtu.be)
 
+## Theorem proving tutorials
+[Coq basic tutorial](https://www.youtube.com/channel/UCx9SG4xrWGD21YH_NiEctWw/videos)
 
 ## Graph Neural Networks Resources
 [ICML 2019 workshop](https://graphreason.github.io/schedule.html)
